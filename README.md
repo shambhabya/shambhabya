@@ -5,19 +5,19 @@
 
 - 🌱 I’m currently learning **the MERN stack and DSA**
 
-- 💬 Ask me about **React, Node**
+- 💬 Ask me about **Javascript,React,Anime**
 
 - 📫 How to reach me **shambhabyamedhi@gmail.com**
 
 - 📄 Know about my experiences [https://shorturl.at/mCTU1](https://shorturl.at/mCTU1)
 
-- ⚡ Fun fact **I like a kaizoku**
+- ⚡ Fun fact **I am a kaizoku**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shambhabya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shambhabya/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/shambhabya_m" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/shambhabya_m" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/shambhabyamedhi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/shambhabyamedhi/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shambhabya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shambhabya" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/shambhabya_m" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shambhabya_m" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/shambhabyamedhi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shambhabyamedhi/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
