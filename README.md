@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shambhabya Medhi</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
-- 🔭 I’m currently working on [NutriSelect][https://github.com/shambhabya/NutriSelect]
+- 🔭 I’m currently working on <a href="https://github.com/shambhabya/NutriSelect">NutriSelect</a>
 
 - 🌱 I’m currently learning **the MERN stack and DSA**
 
