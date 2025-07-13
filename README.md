@@ -13,8 +13,6 @@ I'm a Software Development Engineer (SDE) at [Kiffer AI](https://kiffer.co.in), 
 
 #### **Kiffer AI** - SDE | Present  
 - Building AI-powered marketing applications using modern frameworks and cloud services.
-
-#### **Kiffer AI** - Intern | 3 months  
 - Worked on a medical signal capture software that collects data from edge devices and triggers AWS Lambda to process and upload data to S3.
 - Developed GraphQL APIs and shell scripts for remote installation of AWS Greengrass and deploying medical edge devices for signal capture.
 - Automated AWS infrastructure using Lambda, SQS, and S3 for processing and storing medical device data.
